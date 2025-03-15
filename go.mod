@@ -1,6 +1,6 @@
 module github.com/swift-s3/selfupdate
 
-go 1.14
+go 1.22
 
 require (
 	aead.dev/minisign v0.2.0
