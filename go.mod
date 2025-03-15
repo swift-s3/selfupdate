@@ -1,4 +1,4 @@
-module github.com/minio/selfupdate
+module github.com/swift-s3/selfupdate
 
 go 1.14
 
